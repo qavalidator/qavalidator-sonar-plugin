@@ -1,0 +1,3 @@
+// do this so that the project name is correct in Jenkins
+// (would be 'workspace' otherwise)
+rootProject.name = 'qav-sonar-plugin'
